@@ -13,13 +13,13 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 0 20px;
 }
 
 .card {
     background-color: #e6e6de;
     padding: 20px;
     border-radius: 20px;
+    margin: 0 20px;
 }
 
 h2 {
